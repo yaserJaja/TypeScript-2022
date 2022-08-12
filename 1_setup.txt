@@ -1,0 +1,7 @@
+[1] install node js:
+  https://nodejs.org/en/download/
+  check of install => node -v
+
+[2] install TypeScript:
+  npm i -g typescript
+  check of install => tsc -v

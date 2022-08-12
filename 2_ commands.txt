@@ -1,0 +1,11 @@
+[1] compile to js:
+  tsc name.ts
+
+[2] compiled Automatic:
+  tsc -w [name]
+
+[3] generate file configration:
+  ts --init
+  
+[4] run file js:
+  node fileName
